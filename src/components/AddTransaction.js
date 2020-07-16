@@ -16,7 +16,7 @@ export const AddTransaction = () => {
         }
 
         addTransaction(newTransaction)
-    }
+    } 
     
     return (
         <React.Fragment>

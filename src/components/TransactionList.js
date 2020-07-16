@@ -16,5 +16,5 @@ export const TransactionList = () => {
                 }
             </ul>
         </React.Fragment>
-    )
+    ) 
 } 

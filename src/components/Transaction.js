@@ -12,5 +12,5 @@ export const Transaction = (props) => {
                 <button className="delete-btn" onClick={()=>deleteTransaction(props.transaction.id)}>x</button>
             </li>
         </React.Fragment>
-    )
+    ) 
 }
