@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Expense-Tracker/static/css/main.cb96896f.chunk.css",
-    "main.js": "/Expense-Tracker/static/js/main.e0a34722.chunk.js",
-    "main.js.map": "/Expense-Tracker/static/js/main.e0a34722.chunk.js.map",
-    "runtime-main.js": "/Expense-Tracker/static/js/runtime-main.185c89e8.js",
-    "runtime-main.js.map": "/Expense-Tracker/static/js/runtime-main.185c89e8.js.map",
-    "static/js/2.4599387a.chunk.js": "/Expense-Tracker/static/js/2.4599387a.chunk.js",
-    "static/js/2.4599387a.chunk.js.map": "/Expense-Tracker/static/js/2.4599387a.chunk.js.map",
-    "index.html": "/Expense-Tracker/index.html",
-    "precache-manifest.5351c550fe1b3095cf9cd593017b157a.js": "/Expense-Tracker/precache-manifest.5351c550fe1b3095cf9cd593017b157a.js",
-    "service-worker.js": "/Expense-Tracker/service-worker.js",
-    "static/css/main.cb96896f.chunk.css.map": "/Expense-Tracker/static/css/main.cb96896f.chunk.css.map",
-    "static/js/2.4599387a.chunk.js.LICENSE.txt": "/Expense-Tracker/static/js/2.4599387a.chunk.js.LICENSE.txt"
+    "main.css": "/expense-tracker/static/css/main.cb96896f.chunk.css",
+    "main.js": "/expense-tracker/static/js/main.e0a34722.chunk.js",
+    "main.js.map": "/expense-tracker/static/js/main.e0a34722.chunk.js.map",
+    "runtime-main.js": "/expense-tracker/static/js/runtime-main.91d22b83.js",
+    "runtime-main.js.map": "/expense-tracker/static/js/runtime-main.91d22b83.js.map",
+    "static/js/2.4599387a.chunk.js": "/expense-tracker/static/js/2.4599387a.chunk.js",
+    "static/js/2.4599387a.chunk.js.map": "/expense-tracker/static/js/2.4599387a.chunk.js.map",
+    "index.html": "/expense-tracker/index.html",
+    "precache-manifest.ed5b25be47fd61d376e612f94f39e0fe.js": "/expense-tracker/precache-manifest.ed5b25be47fd61d376e612f94f39e0fe.js",
+    "service-worker.js": "/expense-tracker/service-worker.js",
+    "static/css/main.cb96896f.chunk.css.map": "/expense-tracker/static/css/main.cb96896f.chunk.css.map",
+    "static/js/2.4599387a.chunk.js.LICENSE.txt": "/expense-tracker/static/js/2.4599387a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.185c89e8.js",
+    "static/js/runtime-main.91d22b83.js",
     "static/js/2.4599387a.chunk.js",
     "static/css/main.cb96896f.chunk.css",
     "static/js/main.e0a34722.chunk.js"
